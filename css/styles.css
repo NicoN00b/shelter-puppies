@@ -12,10 +12,12 @@ img {
   width: 350px;
   float: left;
 }
-.winner{
+.winner {
   margin: 8px;
   padding: 4px;
-  border: 12px;
+  bottom: 60px;
+  position: absolute;
+  width: 100%;
 }
 @media screen and (min-width: 768px) {
   .column {
@@ -30,7 +32,6 @@ img {
         color: purple;
     }
 }
-
 @media screen and (max-width: 680px) {
     body {
         background-color: blue;
