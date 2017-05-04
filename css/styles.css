@@ -1,0 +1,14 @@
+img {
+  display: block;
+  max-width: 230px;
+  max-height: 115px;
+  width: auto;
+  height: auto;
+  padding: 4px;
+  margin: 6px;
+  border-radius: 20px;
+
+}
+.puppies {
+
+}
